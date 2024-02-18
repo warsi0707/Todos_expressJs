@@ -1,0 +1,25 @@
+body{
+    margin-left: 15px;
+}
+.todo{
+    background-color:aqua;
+    border-radius: 20px;
+    padding: 50px;
+    margin-left: 50px;
+    margin-right: 100px;
+    display:grid;
+    margin-top: 20px;
+    
+}
+.button{
+    border-radius: 8px;
+    display: inline;
+}
+.tbutton{
+    height: 50px;
+    width: 80px;
+    background-color:greenyellow;
+    border: none;
+    border-radius: 20px;
+    margin-left: 2.5rem;
+}
